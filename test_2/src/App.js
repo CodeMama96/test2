@@ -1,25 +1,21 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        Yay! We're open
       </header>
     </div>
   );
 }
 
 export default App;
+
+
+//Components
+//1. search bar on each page(nav bar?)
+//2. container for the parts
+//3. each part description
+//4. 
