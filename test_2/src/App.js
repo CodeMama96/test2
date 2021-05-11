@@ -1,4 +1,4 @@
-
+import FetchParts from './php/FetchParts'
 import './App.css';
 
 function App() {
@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         Yay! We're open
+        <FetchParts/>
       </header>
     </div>
   );
