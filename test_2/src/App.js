@@ -1,5 +1,6 @@
 import SearchBar from './components/SearchBar'
 import './App.css';
+import PartsContainer from './components/PartsContainer';
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
       <header className="App-header">
         Yay! Open for Business
         <SearchBar/>
+        <PartsContainer/>
       </header>
     </div>
   );
