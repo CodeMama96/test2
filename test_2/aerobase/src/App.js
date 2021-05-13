@@ -1,5 +1,5 @@
 import SearchBar from './components/SearchBar'
-import './App.css';
+
 import PartsContainer from './components/PartsContainer';
 
 function App() {
